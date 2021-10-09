@@ -1,0 +1,19 @@
+{
+  "name": "uptimer-bot",
+  "version": "1.0.0",
+  "description": "this bot can uptime discord bots amd websites 24/7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RLX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "glob": "^7.2.0",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "valid-url": "^1.0.9"
+  }
+}

@@ -1,0 +1,13 @@
+{    
+    "prefix": "BOT PREFIX",        
+  "owners": ["BOT OWNERS"],
+  "timeout": 300000,
+        "errorembedemoji": "❌",
+        "correctembedemoji": "✅",
+        "pinembedemoji": "📌",
+        "menuembedemoji": "❣️",
+        "botid": "YOUR BOT ID",
+  "errorlogs": "BOT ERROR LOGS CHANNEL",
+  "successlogs": "BOT SUCCES LOGS CHANNEL",
+  "disable_fetching": false
+}
