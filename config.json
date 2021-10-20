@@ -1,5 +1,6 @@
 {    
-    "prefix": "BOT PREFIX",        
+    "prefix": "BOT PREFIX",
+   "mongourl": "MONGO DB URL HERE",        
   "owners": ["BOT OWNERS"],
   "timeout": 300000,
         "errorembedemoji": "❌",
